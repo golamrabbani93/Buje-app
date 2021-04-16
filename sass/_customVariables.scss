@@ -1,0 +1,22 @@
+/* Import font[GentiumBookBasic And Opensans Font ]*/
+@import url("https://fonts.googleapis.com/css2?family=Gentium+Book+Basic&family=Open+Sans:wght@300;700;800&display=swap");
+
+$font-gent: "Gentium Book Basic", serif;
+$font-sans: "Open Sans", sans-serif;
+
+/* color variables*/
+
+$color-primary: #ff6868;
+$color-second: #3a424c;
+
+$gradient-primary: linear-gradient(
+  0deg,
+  rgba(58, 66, 76, 1) 0%,
+  rgba(255, 104, 104, 1) 87%
+);
+
+$gradient-second: linear-gradient(
+  80deg,
+  rgba(58, 66, 76, 1) -11%,
+  rgba(255, 104, 104, 1) 45%
+);
